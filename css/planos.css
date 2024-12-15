@@ -817,7 +817,7 @@ footer i{
 
   /**BODY*/
   body{
-    height: auto;
+    height: 100vh;
 
     padding: 0 0 5rem;
   }
