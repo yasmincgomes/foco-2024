@@ -13,9 +13,9 @@
   --cinza: #5C84A1;
   --lilas: #9EDAFF;
   --preto: #1E1E1E;
-  --subtitulo: 1.5rem;
 
-/** fontes*/
+  /** fontes*/
+  --subtitulo: 1.5rem;
   --titulo: 3rem;
 }
 

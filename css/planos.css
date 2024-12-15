@@ -2,13 +2,10 @@
 
 :root{
   --amarelo: #F8B14E;
-  --amarelo-escuro: #975B08;
   --azul: #31C2DC;
   --azul-escuro: #046C7E;
   --branco: #FFF;
   --branco-amarelado: #FCF8EC;
-  --cinza: #5C84A1;
-  --lilas: #9EDAFF;
   --preto: #1E1E1E;
 }
 
@@ -189,7 +186,7 @@ section{
 
   border-radius: 2rem;
 
-  background-color: var(--branco-amarelado);
+  background-color: var(--branco);
 
   box-shadow: 0px 8px 16px rgba(0, 0, 0, .2);
 
@@ -290,7 +287,7 @@ footer{
 
   padding: .5rem 0;
 
-  background-color: var(--branco-amarelado);
+  background-color: var(--branco);
 
   color: var(--preto);
   font-size: .9rem;
